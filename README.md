@@ -109,7 +109,7 @@ This assignment asks you to design a program and implement it in micro:bit JavaS
 
 ### SS 1
 
-This screensaver builds vertical and horizontal, one at a time, and fades them away. Shake the microbit to activate. JS
+This screensaver builds vertical and horizontal pillar, one at a time, and fades them away. Shake the microbit to activate. JS
 
 ### SS 2 
 
