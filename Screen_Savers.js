@@ -6,7 +6,7 @@ input.onButtonPressed(Button.A, function () {
     while (true) {
         if (input.isGesture(Gesture.TiltLeft)) {
             basic.clearScreen()
-            Screen_saver1()
+            Screen_saver1() // Fading pillars
         } else if (input.isGesture(Gesture.Shake)) {
             basic.showNumber(0)
         } else if (input.isGesture(Gesture.TiltRight)) {
