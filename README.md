@@ -114,8 +114,8 @@ This screensaver builds vertical and horizontal pillar, one at a time, and fades
 ### [Screen_Savers v0.2](https://github.com/Introduction-to-Computer-Engineering/screensavers-for-the-micro-bit-ZenBoba/blob/master/Screen_Savers.js%20v0.2)
 This screensaver creates a pillar that rotates clockwise 360 degrees. Shake the microbit to activate.
 
-### [Screen_Savers v0.3]
-
+### [Screen_Savers v0.3](https://github.com/Introduction-to-Computer-Engineering/screensavers-for-the-micro-bit-ZenBoba/blob/master/Screen_Savers.js%20v0.3)
+This screensaver pulses the leds from the middle outward. Tilt the microbit right to activate.
 
 
 ## Demo URL
