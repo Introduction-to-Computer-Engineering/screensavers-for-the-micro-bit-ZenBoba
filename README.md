@@ -119,5 +119,8 @@ This screensaver pulses the leds from the middle outward. Tilt the microbit righ
 
 ## [Screen_Savers v0.4](https://github.com/Introduction-to-Computer-Engineering/screensavers-for-the-micro-bit-ZenBoba/blob/master/Screen_Savers.js%20v0.4)
 This screensaver uses a led pattern in the path of an infinity symbol. Face the microbit logo down to activate. 
+
+## [Screen_Savers v0.5](https://github.com/Introduction-to-Computer-Engineering/screensavers-for-the-micro-bit-ZenBoba/blob/master/Screen_Savers.js%20v0.5)
+This screensaver builds up the led matrix from top to bottom and fades out when the entire screen is lit. This is the initial screensaver that activates when microbit is in "screensaver" mode.
 ## Demo URL
 
