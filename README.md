@@ -117,6 +117,7 @@ This screensaver creates a pillar that rotates clockwise 360 degrees. Shake the 
 ### [Screen_Savers v0.3](https://github.com/Introduction-to-Computer-Engineering/screensavers-for-the-micro-bit-ZenBoba/blob/master/Screen_Savers.js%20v0.3)
 This screensaver pulses the leds from the middle outward. Tilt the microbit right to activate.
 
-
+## [Screen_Savers v0.4](https://github.com/Introduction-to-Computer-Engineering/screensavers-for-the-micro-bit-ZenBoba/blob/master/Screen_Savers.js%20v0.4)
+This screensaver uses a led pattern in the path of an infinity symbol. Face the microbit logo down to activate. 
 ## Demo URL
 
