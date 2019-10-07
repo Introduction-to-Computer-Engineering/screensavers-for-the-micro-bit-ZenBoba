@@ -107,20 +107,20 @@ This assignment asks you to design a program and implement it in micro:bit JavaS
 
 ## Screensavers
 
-### [Screen_Savers v0.1](https://github.com/Introduction-to-Computer-Engineering/screensavers-for-the-micro-bit-ZenBoba/blob/master/Screen_Savers.js)
+### [screensaver-1](https://github.com/Introduction-to-Computer-Engineering/screensavers-for-the-micro-bit-ZenBoba/blob/master/Screen_Savers.js)
 
 This screensaver builds vertical and horizontal pillar, one at a time, and fades them away. Tilt the microbit left to activate.
 
-### [Screen_Savers v0.2](https://github.com/Introduction-to-Computer-Engineering/screensavers-for-the-micro-bit-ZenBoba/blob/master/Screen_Savers.js%20v0.2)
+### [screensaver-2](https://github.com/Introduction-to-Computer-Engineering/screensavers-for-the-micro-bit-ZenBoba/blob/master/Screen_Savers.js%20v0.2)
 This screensaver creates a pillar that rotates clockwise 360 degrees. Shake the microbit to activate.
 
-### [Screen_Savers v0.3](https://github.com/Introduction-to-Computer-Engineering/screensavers-for-the-micro-bit-ZenBoba/blob/master/Screen_Savers.js%20v0.3)
+### [screensaver-3](https://github.com/Introduction-to-Computer-Engineering/screensavers-for-the-micro-bit-ZenBoba/blob/master/Screen_Savers.js%20v0.3)
 This screensaver pulses the leds from the middle outward. Tilt the microbit right to activate.
 
-### [Screen_Savers v0.4](https://github.com/Introduction-to-Computer-Engineering/screensavers-for-the-micro-bit-ZenBoba/blob/master/Screen_Savers.js%20v0.4)
+### [screensaver-4](https://github.com/Introduction-to-Computer-Engineering/screensavers-for-the-micro-bit-ZenBoba/blob/master/Screen_Savers.js%20v0.4)
 This screensaver uses a led pattern in the path of an infinity symbol. Face the microbit logo down to activate. 
 
-### [Screen_Savers v0.5](https://github.com/Introduction-to-Computer-Engineering/screensavers-for-the-micro-bit-ZenBoba/blob/master/Screen_Savers.js%20v0.5)
+### [screensaver-5](https://github.com/Introduction-to-Computer-Engineering/screensavers-for-the-micro-bit-ZenBoba/blob/master/Screen_Savers.js%20v0.5)
 This screensaver builds up the led matrix from top to bottom and fades out when the entire screen is lit. This is the initial screensaver that activates when microbit is in "screensaver" mode.
 ## Demo URL
 
