@@ -107,7 +107,7 @@ This assignment asks you to design a program and implement it in micro:bit JavaS
 
 ## Screensavers
 
-### [screensaver-1](https://github.com/Introduction-to-Computer-Engineering/screensavers-for-the-micro-bit-ZenBoba/blob/master/screen_saver_v0.1.js)
+### [screensaver-1](https://github.com/Introduction-to-Computer-Engineering/screensavers-for-the-micro-bit-ZenBoba/blob/master/screen_saver_v0.1.js) 
 
 This screensaver builds vertical and horizontal pillar, one at a time, and fades them away. Tilt the microbit left to activate.
 
