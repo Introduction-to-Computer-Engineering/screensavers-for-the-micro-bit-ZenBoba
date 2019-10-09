@@ -1,25 +1,14 @@
-let isSleeping = false
+input.onButtonPressed(Button.B, function () {
+    isSleeping = false
+    led.stopAnimation()
+    basic.clearScreen()
+    basic.showString("WAKEY WAKEY")
+})
 input.onButtonPressed(Button.A, function () {
-    if (input.buttonIsPressed(Button.A)) {
-        isSleeping = !(isSleeping)
-    }
-    while (true) {
-        if (input.isGesture(Gesture.TiltLeft)) {
-            basic.clearScreen()
-            Screen_saver1()
-            basic.clearScreen()
-        } else if (input.isGesture(Gesture.Shake)) {
-            basic.clearScreen()
-            Screen_saver2()
-            basic.clearScreen()
-        } else if (input.isGesture(Gesture.TiltRight)) {
-            basic.clearScreen()
-        } else if (input.isGesture(Gesture.LogoDown)) {
-            basic.showString("Bye")
-        } else {
-            basic.showNumber(2)
-        }
-    }
+    isSleeping = true
+    led.stopAnimation()
+    basic.clearScreen()
+    basic.showString("SLEEPY TIME")
 })
 function Screen_saver1() {
     led.plot(2, 0)
@@ -64,7 +53,7 @@ function Screen_saver1() {
     led.fadeIn(500)
 }
 function Screen_saver2() {
-    for (let i = 0; i < 4; i++) {
+    for (let i = 0; i < 1; i++) {
         basic.showLeds(`
             . . # . .
             . . # . .
@@ -95,4 +84,23 @@ function Screen_saver2() {
             `)
     }
 }
+let isSleeping: boolean = false
+basic.forever(function () {
+    while (isSleeping) {
+        if (input.isGesture(Gesture.TiltLeft)) {
+            basic.clearScreen()
+            Screen_saver1()
+        } else if (input.isGesture(Gesture.Shake)) {
+            basic.clearScreen()
+            Screen_saver2()
+        } else if (input.isGesture(Gesture.TiltRight)) {
+        } else if (input.isGesture(Gesture.LogoDown)) {
+        } else {
+        }
+    }
+    while (!(isSleeping)) {
+        basic.clearScreen()
+        basic.showString("IM AWAKE")
+    }
+})
  
