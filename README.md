@@ -122,7 +122,5 @@ This screensaver uses a led pattern in the path of an infinity symbol. Face the 
 
 ### [screensaver-5](https://github.com/Introduction-to-Computer-Engineering/screensavers-for-the-micro-bit-ZenBoba/blob/master/screen_savers_v0.5.js)
 This screensaver builds up the led matrix from top to bottom and fades out when the entire screen is lit. This is the initial screensaver that activates when microbit is in "screensaver" mode.
-### [screensavers](https://github.com/Introduction-to-Computer-Engineering/screensavers-for-the-micro-bit-ZenBoba/blob/master/screen_saver_v0.6.js)
-This is the final version of the screensaver assignment.
 ## Demo URL
 
